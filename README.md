@@ -26,5 +26,5 @@ A simple and elegant Quote Generator built using **Next.js, Typescript, Tailwind
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ItsMeAreebaAmjad/QuoteGenerator-Nextjs
 cd your-repo-name
