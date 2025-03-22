@@ -12,7 +12,8 @@ A simple and elegant Quote Generator built using **Next.js, Typescript, Tailwind
 
 ## 📸 Preview
 
-![Quote App Screenshot](your-screenshot-url)
+![Quote App Screenshot](https://github.com/ItsMeAreebaAmjad/QuoteGenerator-Nextjs/blob/main/image1.png)
+![Quote App Screenshot](https://github.com/ItsMeAreebaAmjad/QuoteGenerator-Nextjs/blob/main/image2.png)
 
 ## 🛠️ Tech Stack
 
